@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Chef Random",
+      "live": "https://61476edc82275da63e21a4c5--epic-lewin-71634e.netlify.app/",
+      "git": "https://github.com/mbucheli/Chef-Random",
+      "image": "https://i.imgur.com/FAmoaIw.png"
+    },
+    {
+      "name": "Recipe Box",
+      "live": "https://mavi-project-2.herokuapp.com/recipes",
+      "git": "https://github.com/mbucheli/mavi-project2",
+      "image": "https://i.imgur.com/uSoPYLw.png"
+    }
+  ]
