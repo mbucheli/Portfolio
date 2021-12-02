@@ -10,5 +10,17 @@
       "live": "https://mavi-project-2.herokuapp.com/recipes",
       "git": "https://github.com/mbucheli/mavi-project2",
       "image": "https://i.imgur.com/uSoPYLw.png"
+    },
+    {
+      "name": "Happy Tail",
+      "live": "https://goofy-goldwasser-3e86bc.netlify.app/",
+      "git": "https://github.com/mbucheli/project3-happy-tail-frontend-",
+      "image": "https://i.imgur.com/MYP5ytF.png"
+    },
+    {
+      "name": "Nurse Mern",
+      "live": "https://jolly-jackson-b9afe1.netlify.app/",
+      "git": "https://github.com/mbucheli/project-capstone-frontend",
+      "image": "https://i.imgur.com/rQ3M6Ka.png"
     }
   ]
